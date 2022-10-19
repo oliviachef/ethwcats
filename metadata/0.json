@@ -4,24 +4,24 @@
     "image": "",
     "attributes": [
         {
-            "trait_type": "trait 1",
+            "trait_type": "Background",
+            "value": "Simple"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Eyes",
             "value": ""
         },
         {
-            "trait_type": "trait 2",
-            "value": ""
+            "trait_type": "Face",
+            "value": "chew"
         },
         {
-            "trait_type": "trait 3",
-            "value": ""
-        },
-        {
-            "trait_type": "trait 4",
-            "value": ""
-        },
-        {
-            "trait_type": "trait 5",
-            "value": ""
+            "trait_type": "Held",
+            "value": "Lamb"
         }
     ]
 }
