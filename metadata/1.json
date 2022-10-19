@@ -1,0 +1,27 @@
+{
+    "name": "Ethw Cats",
+    "description": "EthereumPow Cats, arts derived from tubbycats!",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": ""
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Kawaii"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Hold"
+        },
+        {
+            "trait_type": "Held",
+            "value": "Cat"
+        }
+    ]
+}
